@@ -27,8 +27,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavaCandy1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph" /> <br>
+<div align="left" border="white">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavaCandy1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=LavaCandy1&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
