@@ -1,8 +1,23 @@
-<h2 align="left">Hi 👋! My name is Ayush Garg</h2>
+<h2 align="left">Hi 👋! My name is Ayush Garg and I'm a Backend Developer, from India</h2>
 
 ###
+<p align="left"><strong>💻 I have experience in:</strong></p>
+<ul align="left">
+  <li>Python</li>
+  <li>Java</li>
+  <li>C++</li>
+  <li>MySQL</li>
+  <li>Docker</li>
+</ul>
 
-<p align="left">I work with these</p>
+<p align="left"><strong>📚 I'm learning:</strong> Spring Boot and backend service architecture</p>
+
+<p align="left"><strong>🎯 My future goals include:</strong></p>
+<ul align="left">
+  <li>Mastering system design principles</li>
+  <li>Exploring cloud deployment (AWS/GCP)</li>
+  <li>Building scalable and production-ready backend systems</li>
+</ul>
 
 ###
 
@@ -10,7 +25,7 @@
 
 ###
 
-<div align="right" width="15">
+<div align="left" width="15">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -48,7 +63,11 @@
   <a href="aayush.garg.1793@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
   </a>
+  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Leetcode.svg" width="30" height="20" alt="leetcode logo" />
+  </a>
 </div>
+
 
 ###
 
