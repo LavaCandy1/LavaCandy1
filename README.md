@@ -62,8 +62,8 @@
   <a href="lavacandy1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="20" alt="discord logo"  />
   </a>
-  <a href="aayush.garg.1793@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
+  <a href="mailto:aayush.garg.1793@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo" />
   </a>
   <a href="https://leetcode.com/u/AyushGarg17" target="_blank">
     <img src="icons8-leetcode-96.png" width="30" height="20" alt="leetcode logo" />
