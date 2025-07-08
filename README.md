@@ -77,6 +77,8 @@
 
 ###
 
+<p align="left">And this looks cool here</p>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LavaCandy1/LavaCandy1/output/snake.svg" alt="Snake animation" />
