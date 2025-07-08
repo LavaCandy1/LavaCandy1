@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is Ayush Garg and I'm a Backend Developer, from India</h2>
 
 ###
+
+<img align="right" height="150"  src="hamster.jpg"  />
+
+###
 <p align="left"><strong>💻 I have experience in:</strong></p>
 <ul align="left">
   <li>Python</li>
@@ -19,9 +23,6 @@
   <li>Building scalable and production-ready backend systems</li>
 </ul>
 
-###
-
-<img align="right" height="150"  src="hamster.jpg"  />
 
 ###
 
