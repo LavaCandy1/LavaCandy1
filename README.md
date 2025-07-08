@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">void reachMe(buttonclick leftclick){</p>
+<p align="left">MySocials reachMe(buttonclick leftclick){</p>
 
 ###
 
