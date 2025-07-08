@@ -59,9 +59,9 @@
   <a href="https://www.linkedin.com/in/ayushgarg-17lc/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="15" alt="linkedin logo"  />
   </a>
-  <a href="lavacandy1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="20" alt="discord logo"  />
-  </a>
+  <a href="https://discordapp.com/users/794267513667190814" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="20" alt="discord logo" />
+</a>
   <a href="mailto:aayush.garg.1793@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo" />
   </a>
