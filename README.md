@@ -63,8 +63,8 @@
   <a href="aayush.garg.1793@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Leetcode.svg" width="30" height="20" alt="leetcode logo" />
+  <a href="https://leetcode.com/u/AyushGarg17" target="_blank">
+    <img src="icons8-leetcode-96.png" width="30" height="20" alt="leetcode logo" />
   </a>
 </div>
 
