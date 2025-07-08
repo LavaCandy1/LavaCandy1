@@ -44,16 +44,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ayushgarg-17lc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="lavacandy1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="20" alt="discord logo"  />
-  </a>
-  <a href="aayush.garg.1793@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="20" alt="gmail logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavaCandy1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LavaCandy1&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="100" alt="stats graph"  />
 </div>
+
 ###
 
 <p align="left">void reachMe(buttonclick leftclick){</p>
