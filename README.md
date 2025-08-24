@@ -7,10 +7,10 @@
 ###
 <p align="left"><strong>💻 I have experience in:</strong></p>
 <ul align="left">
-  <li>Python</li>
-  <li>Java</li>
+  <li>Python - Core, FastAPI, TF</li>
+  <li>Java - Spring, JPA, Servlets</li>
   <li>C++</li>
-  <li>MySQL</li>
+  <li>SQL - MySQL, PostgreSQL</li>
   <li>Docker</li>
 </ul>
 
