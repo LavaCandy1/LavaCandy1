@@ -14,13 +14,13 @@
   <li>Docker</li>
 </ul>
 
-<p align="left"><strong>📚 I'm learning:</strong> Spring Boot and backend service architecture</p>
+<p align="left"><strong>📚 I'm learning:</strong> Angular for frontend</p>
 
 <p align="left"><strong>🎯 My future goals include:</strong></p>
 <ul align="left">
   <li>Mastering system design principles</li>
+  <li>Mastering fullstack using Angular and SpringBoot</li>
   <li>Exploring cloud deployment (AWS/GCP)</li>
-  <li>Building scalable and production-ready backend systems</li>
 </ul>
 
 
