@@ -7,8 +7,8 @@
 ###
 <p align="left"><strong>💻 I have experience in:</strong></p>
 <ul align="left">
-  <li>Python - Core, FastAPI, TF</li>
-  <li>Java - Spring, JPA, Servlets</li>
+  <li>Java - Spring, JPA, Security</li>
+  <li>Python - Core, FastAPI, Django</li>
   <li>C++</li>
   <li>SQL - MySQL, PostgreSQL</li>
   <li>Docker</li>
