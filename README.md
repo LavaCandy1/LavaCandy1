@@ -9,7 +9,7 @@
 <ul align="left">
   <li>Java - Spring, JPA, Security</li>
   <li>Python - Core, FastAPI, Django</li>
-  <li>C++</li>
+  <li>C++ - DSA</li>
   <li>SQL - MySQL, PostgreSQL</li>
   <li>Docker</li>
 </ul>
